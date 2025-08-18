@@ -55,7 +55,7 @@ This Power BI project analyzes **[LOAN DEFAULT DATASET]** using real-world data.
 
 ## 📊 Dashboard Features
 
-- ✅ More Filters (e.g., Bank Name, Received bank name, Transaction type)
+- ✅ More Filters (e.g., Customer Credit analysis, Customer Churn)
 - 📅 Line Graph in page one and Table on second page
 - 📈 Trend analysis charts (line, bar, pie, etc.)
 - 📌 Slicers and drill-down functionality for dynamic filtering
